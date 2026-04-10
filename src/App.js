@@ -1,25 +1,20 @@
-import logo from './logo.svg';
 import './App.css';
+import { Experiencia } from './componentes/Experiencia';
+import { Principal } from './componentes/Principal';
 
-function App() {
+export default function App() {
+  const imprimir = () => {
+    window.print()
+  }
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className='App'>
+      <div className="d-flex flex-column align-items-center">
+        <div className='my-5 acoes'>
+          <button className='btn btn-outline-primary' onClick={imprimir}><i className='bi bi-printer me-2'></i>Imprimir</button>
+        </div>
+        <Principal />
+        <Experiencia />
+      </div>
     </div>
-  );
+  )
 }
-
-export default App;

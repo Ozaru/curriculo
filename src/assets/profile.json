@@ -1,0 +1,192 @@
+{
+    "info": {
+        "nome": "Diego Davel Bonfim",
+        "profissao": "Engenheiro de Software Sênior",
+        "stack": [
+            "Java",
+            "Kotlin",
+            "Spring Boot",
+            "NodeJS",
+            "React",
+            "Angular",
+            "NestJS",
+            "Outros..."
+        ],
+        "tags": [
+            "Certificação AWS - Solutions Architect Associate",
+            "Certificação AWS - Developer Associate",
+            "Experiência com IA generativa, LLM's e agentes autônomos",
+            "15+ anos de experiência",
+            "Mentoria e liderança técnica",
+            "Ampla diversidade de tecnologias, linguagens e ambientes"
+        ],
+        "sobre": [
+            "Engenheiro de software sênior fullstack com mais de 15 anos de experiência (2009), atuando no desenvolvimento de sistemas escaláveis, distribuídos e orientados a eventos, com forte atuação em backend utilizando Java (Spring Boot/Kotlin) e Node.js (JavaScript).",
+            "",
+            "Possuo experiência sólida em arquitetura de software, atuando diretamente em decisões técnicas estratégicas, definição de requisitos, desenho de soluções e liderança técnica de equipes. Já participei de projetos de alta complexidade em ambientes críticos, incluindo setor financeiro, saúde e governo.",
+            "",
+            "Nos últimos anos, venho aprofundando minha atuação em Inteligência Artificial aplicada ao desenvolvimento de software, com experiência prática no uso de modelos de linguagem (LLMs), criação de agentes autônomos, automação inteligente de processos e integração de IA em sistemas produtivos.",
+            "",
+            "Tenho forte perfil proativo, com histórico de assumir responsabilidades além do escopo técnico, incluindo mentoria, organização de times, melhoria de processos e evolução arquitetural.",
+            "",
+            "Stack principal: Java, Kotlin, Spring Boot, Node.js, TypeScript, AWS, Docker, Kubernetes, Angular, React, arquitetura de microserviços e sistemas distribuídos: MVC, Hexagonal, Clean Architecture, Microfrontend, BFF, Event-driven, dentre outros..."
+        ]
+    },
+    "contato": {
+        "endereco": "Vila Velha, Espírito Santo, Brasil",
+        "whatsapp": "+55 27 99507-6775",
+        "email": "diegodavel@gmail.com",
+        "linkedin": "https://www.linkedin.com/in/diegossauro/"
+    },
+    "experiencia": [
+        {
+            "cargo": "Sênior Software Engineer",
+            "empresa": "Compass UOL",
+            "inicial": "03/2023",
+            "final": "04/2026",
+            "descricao": [
+                "Atuação como engenheiro sênior em projetos de alta escala, com foco em arquitetura de microserviços, cloud e soluções modernas baseadas em eventos.",
+                "",
+                "- Desenvolvimento backend com Java/Kotlin (Spring Boot) e Node.js (TypeScript)",
+                "- Definição de arquitetura e padrões técnicos (Clean Architecture, DDD, SOLID)",
+                "- Criação e evolução de pipelines CI/CD e ambientes cloud-native",
+                "- Uso intensivo de AWS (Lambda, SQS, SNS, S3, RDS, API Gateway)",
+                "- Implementação de observabilidade (logs, métricas e tracing)",
+                "",
+                "Inteligência Artificial:",
+                "",
+                "- Desenvolvimento e integração de soluções baseadas em LLMs",
+                "- Criação de agentes de IA para automação de tarefas e análise de dados",
+                "- Experimentação com pipelines de extração estruturada e automação inteligente",
+                "",
+                "- Atuação como referência técnica, apoiando decisões arquiteturais e mentoria de desenvolvedores."
+            ]
+        },
+        {
+            "cargo": "Engenheiro de Software Sênior",
+            "empresa": "Parati Crédito Financiamento e Investimento SA",
+            "inicial": "05/2022",
+            "final": "01/2023",
+            "descricao": [
+                "Atuação em modernização tecnológica e arquitetura cloud em instituição financeira.",
+                "",
+                "- Análise e definição de arquitetura com foco em custo-benefício e escalabilidade",
+                "- Implementação de soluções serverless na AWS (Lambda, Step Functions, API Gateway, S3, RDS)",
+                "- Construção de pipelines CI/CD e automação de infraestrutura",
+                "- Desenvolvimento de aplicações web (React e Angular)",
+                "",
+                "- Estruturação de fluxos orientados a eventos e integração entre serviços",
+                "- Forte atuação em qualidade de código, testes automatizados e boas práticas",
+                "",
+                "- Integrações com banco central e registro de contratos financeiros"
+            ]
+        },
+        {
+            "cargo": "Backend Software Engineer",
+            "empresa": "C6 Bank",
+            "inicial": "10/2021",
+            "final": "04/2022",
+            "descricao": [
+                "Desenvolvimento de sistemas backend em ambiente financeiro de alta criticidade.",
+                "",
+                "- Desenvolvimento com Kotlin + Spring Boot",
+                "- Arquitetura baseada em microserviços e eventos",
+                "- Uso intensivo de AWS (SQS, SNS, RDS, S3, EC2)",
+                "- Observabilidade com Grafana, Prometheus e Spring Actuator",
+                "- Pipelines CI/CD com Concourse e Rundeck",
+                "- Testes automatizados (JUnit, Mockito)",
+                "- Uso de Docker e Kubernetes em ambiente produtivo",
+                "",
+                "- Tracker de cartões",
+                "- Participação no desenvolvimento do fluxo de antecipação do FGTS (consignado)"
+            ]
+        },
+        {
+            "cargo": "Desenvolvedor Java Fullstack",
+            "empresa": "Itix Serviços de Tecnologia da Informação LTDA",
+            "inicial": "07/2020",
+            "final": "09/2021",
+            "descricao": [
+                "Atuação em projetos de grande escala na área de saúde, com foco em transformação digital.",
+                "",
+                "- Desenvolvimento de aplicações baseadas em microserviços (Java, Angular, AWS)",
+                "- Evolução de sistemas legados para arquiteturas modernas",
+                "- Participação em expansão de equipe e estruturação de processos",
+                "",
+                "- Forte atuação em ambientes complexos com múltiplos serviços e integrações",
+                "",
+                "- Migração de aplicações em servidores próprios para ambiente cloud.",
+                "- Integrações com ANS",
+                "- Reestruturação dos dados persistentes e otimização de consultas",
+                "- Implementação de mecanismos de segurança, resiliência e recuperação de falhas"
+            ]
+        },
+        {
+            "cargo": "Desenvolvedor Java Sênior",
+            "empresa": "Basis Tecnologia da Informação SA",
+            "inicial": "04/2020",
+            "final": "07/2020",
+            "descricao": [
+                "Atuação em projetos governamentais (licitações) com foco em liderança técnica e entrega.",
+                "",
+                "- Liderança de equipe e formação de novos desenvolvedores",
+                "- Desenvolvimento de sistemas em arquitetura de microserviços (Spring Boot, Angular, Kafka)",
+                "",
+                "Projetos relevantes:",
+                "",
+                "- Sistema de controle de amostras (ANVISA)",
+                "- Sistema de gestão de pautas (Ministério de Minas e Energia)",
+                "- Sistema ProUni (Ministério da Educação)",
+                "- Sistema de gestão de equipamentos (Exército)",
+                "",
+                "- Uso de Docker, Jenkins, AWS e práticas ágeis"
+            ]
+        },
+        {
+            "cargo": "Analista Desenvolvedor",
+            "empresa": "Itix Serviços de Tecnologia da Informação LTDA",
+            "inicial": "11/2018",
+            "final": "04/2020",
+            "descricao": [
+                "Desenvolvimento de soluções para automação de processos em grande operadora de saúde.",
+                "",
+                "- Criação de sistemas para substituição de processos manuais",
+                "- Modernização de sistemas legados (EJB → Spring Boot)",
+                "",
+                "- Definição de arquitetura para suportar crescimento e escalabilidade",
+                "- Atuação com múltiplas tecnologias conforme necessidade do projeto"
+            ]
+        },
+        {
+            "cargo": "Integração Contábil Empresarial",
+            "empresa": "Contabil Vix Assessoria S/S LTDA",
+            "inicial": "03/2011",
+            "final": "11/2018",
+            "descricao": [
+                "Evolução de carreira de assessor contábil para desenvolvedor responsável por automação e inovação tecnológica.",
+                "",
+                "- Desenvolvimento de sistemas internos e externos",
+                "- Automação completa de processos contábeis e operacionais",
+                "",
+                "Projetos relevantes:",
+                "",
+                "- Sistema de integração de eventos de RH",
+                "- Repositório e indexação de documentos",
+                "- Classificação contábil inteligente (incluindo reconhecimento de imagens)",
+                "- APIs para integração com clientes",
+                "- Geração automatizada de relatórios e declarações"
+            ]
+        }
+    ],
+    "outros": [
+        {
+            "cargo": "(Voluntário) Professor Pré-Vestibular - Geometria Analítica",
+            "empresa": "Pro-EPA (Projeto Ensino Popular Alternativo)",
+            "inicial": "03/2006",
+            "final": "09/2006",
+            "descricao": [
+                "Fui professor voluntário de geometria analítica em um projeto da minha comunidade que fornecia gratuitamente um curso pré-vestibular que visava facilitar o acesso a educação superior para pessoas que muitas vezes careciam de recursos para poder competir por uma vaga na universidade federal."
+            ]
+        }
+    ]
+}
